@@ -1,2 +1,2 @@
 # CloudBubbles
-A owncloud client implemented for Windows Phone 8.1
+A owncloud client implementeation for Windows Phone 8.1
